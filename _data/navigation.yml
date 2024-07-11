@@ -1,22 +1,21 @@
-# main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: https://sushmakambagowni.github.io/research/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://sushmakambagowni.github.io/teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  # url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://sushmakambagowni.github.io/Sushma_Kambagowni_CV.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Contributions"
+  #  url: /markdown/
