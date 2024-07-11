@@ -17,7 +17,7 @@ Sushma Kambagowni and Vanitha Swaminathan, "The Reality Divide: Factors Impactin
  <i> - 2024 AMA Marketing Strategy SIG Doctoral Student Research Award</i>
 <br/>
 
-Mina Ameri, Vanitha Swaminathan and Sushma Kambagowni, "Healthcare Apps, Customer Engagement and the COVID-19 Crisis Pandemic" <br/>
+Mina Ameri, Vanitha Swaminathan and Sushma Kambagowni, "Healthcare Apps, Customer Engagement and the COVID-19 Pandemic Crisis" <br/>
  <i> - Reject and Resubmit at Journal of Marketing</i>
 
 Meheli Basu, Sushma Kambagowni and Vanitha Swaminathan, "Building Bonds, Boosting Sales: Engagement in Online Brand Communities for Lateral Exchange Markets"
