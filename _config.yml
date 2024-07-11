@@ -10,6 +10,8 @@
 locale                   : "en-US"
 title                    : "Sushma Kambagowni"
 title_separator          : "-"
+excerpt                  : "Ph.D. Student in Marketing at University of Pittsburgh, Sushma Kambagowni"
+seo_title                : "Ph.D. Student in Marketing at University of Pittsburgh, Sushma Kambagowni"
 name                     : &name "Sushma Kambagowni"
 description              : &description "Ph.D. Candidate in Marketing at University of Pittsburgh"
 url                      : https://sushmakambagowni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
