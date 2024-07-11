@@ -2,20 +2,10 @@ main:
   - title: "Research"
     url: https://sushmakambagowni.github.io/research/
 
-  #- title: "Talks"
-  #  url: /talks/    
-
   - title: "Teaching"
     url: https://sushmakambagowni.github.io/teaching/    
-    
-  #- title: "Portfolio"
-  # url: /portfolio/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
+  
   - title: "CV"
     url: https://sushmakambagowni.github.io/Sushma_Kambagowni_CV.pdf
     
-  #- title: "Contributions"
-  #  url: /markdown/
+
