@@ -15,15 +15,16 @@ description              : &description "Ph.D. Candidate in Marketing at Univers
 url                      : https://sushmakambagowni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sushmakambagowni/sushmakambagowni.github.io"
-
+logo                     : "/images/katz.png"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Sushma Kambagowni" # overrides the website title displayed in the masthead, use " " for no title
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sushma"
-  pronouns         : # example: "she/her"  
+  name             : "Sushma Kambagowni"
+  pronouns         : "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
   employer         : "University of Pittsburgh"
