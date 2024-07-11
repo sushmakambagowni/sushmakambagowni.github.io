@@ -11,7 +11,7 @@ Sushma Kambagowni, Vanitha Swaminathan, Mina Ameri and Alok Saboo, "Platforms as
  <i> - Dissertation Essay 1</i>
 
 
-<h2> Working Papers/ Work in Progress </h2>
+<h2> Working Papers/ Works in Progress </h2>
 Sushma Kambagowni and Vanitha Swaminathan, "The Reality Divide: Factors Impacting Advertisement Engagement in Virtual Reality vs. Non-Virtual Reality Games" <br/>
  <i> - Dissertation Essay 2</i><br/>
  <i> - 2024 AMA Marketing Strategy SIG Doctoral Student Research Award</i>
