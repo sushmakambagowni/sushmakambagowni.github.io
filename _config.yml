@@ -84,9 +84,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sushma Kambagowni"
-  avatar           : "profile.png"
-   pronouns         : she/her
+  name             :"Sushma Kambagowni"
+  avatar           :"profile.png"
+  pronouns         : "she/her"
   #bio              : "Your biography for the left-hand sidebar"
   #location         : "Location"
   employer         : University of Pittsburgh
