@@ -15,7 +15,7 @@ Sushma Kambagowni, Vanitha Swaminathan, Mina Ameri and Alok Saboo, "Platforms as
 Sushma Kambagowni and Vanitha Swaminathan, "The Reality Divide: Factors Impacting Advertisement Engagement in Virtual Reality vs. Non-Virtual Reality Games" <br/>
  <i> - Dissertation Essay 2</i><br/>
  <i> - 2024 AMA Marketing Strategy SIG Doctoral Student Research Award</i>
-
+<br/>
 
 Mina Ameri, Vanitha Swaminathan and Sushma Kambagowni, "Healthcare Apps, Customer Engagement and the COVID-19 Crisis Pandemic" <br/>
  <i> - Reject and Resubmit at Journal of Marketing</i>
