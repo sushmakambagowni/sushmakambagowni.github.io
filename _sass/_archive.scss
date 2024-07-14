@@ -4,7 +4,7 @@
 
 .archive {
   margin-bottom: 2em;
-  margin-left: 20px; /* Add left margin to shift content */
+  text-align: justify; /* Ensure text justification */
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -13,7 +13,6 @@
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12); /* Adjust the value to shift content right */
-    text-align: justify; /* Ensure text justification */
   }
 
   a {
@@ -29,12 +28,12 @@
   }
 }
 
-.archive-title {
-  margin-left: 20px; /* Align title with content */
-  text-align: left; /* Ensure title is left-aligned */
+.archive-title, .archive__subtitle {
+  margin-left: 20px; /* Align title and subtitle with content */
+  text-align: left; /* Ensure title and subtitle are left-aligned */
 
   @include breakpoint($large) {
-    margin-left: 20px; /* Ensure title aligns with content for larger screens */
+    margin-left: 20px; /* Ensure title and subtitle align with content for larger screens */
   }
 }
 
@@ -44,14 +43,9 @@
   font-size: $type-size-5;
   color: mix(#fff, $gray, 25%);
   border-bottom: 1px solid $border-color;
-  margin-left: 0; /* Ensure subtitle aligns with content */
   
   + .list__item .archive__item-title {
     margin-top: 0.5em;
-  }
-
-  @include breakpoint($large) {
-    margin-left: 0; /* Ensure subtitle aligns with content for larger screens */
   }
 }
 
