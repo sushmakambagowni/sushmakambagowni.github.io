@@ -40,10 +40,16 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.author__avatar {
+  width: 250px;
+  height: 250px;
+  overflow: hidden; /* Ensure any overflow is hidden */
+}
+
 .author__avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensure the image covers the square without distortion */
   border-radius: 0 !important; /* Remove rounding */
-  width: 200px !important; /* Set width */
-  height: 200px !important; /* Set height to make it square */
-  object-fit: cover !important; /* Ensure the image covers the square without distortion */
   display: block !important; /* Ensure image is displayed as a block element */
 }
