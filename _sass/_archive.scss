@@ -31,6 +31,8 @@
 .archive-title, .archive__subtitle {
   margin-left: 20px; /* Align title and subtitle with content */
   text-align: left; /* Ensure title and subtitle are left-aligned */
+  color: black; /* Make subtitle black */
+  font-weight: bold; /* Make subtitle bold */
 
   @include breakpoint($large) {
     margin-left: 20px; /* Ensure title and subtitle align with content for larger screens */
@@ -41,7 +43,8 @@
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
-  color: mix(#fff, $gray, 25%);
+  color: black; /* Make subtitle black */
+  font-weight: bold; /* Make subtitle bold */
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
