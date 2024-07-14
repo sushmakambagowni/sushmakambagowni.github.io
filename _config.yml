@@ -18,7 +18,7 @@ url                      : https://sushmakambagowni.github.io # the base hostnam
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sushmakambagowni/sushmakambagowni.github.io"
 logo                     : "/assets/images/katz.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "/assets/images/katz.png" # overrides the website title displayed in the masthead, use " " for no title
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
