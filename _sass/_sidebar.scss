@@ -90,7 +90,6 @@
     height: 100%; /* Make the image fill the container height */
     object-fit: contain; /* Ensure the image covers the square without distortion */
     border-radius: 0; /* Remove rounding */
-    display: block;
 
     @include breakpoint($large) {
       padding: 5px;
