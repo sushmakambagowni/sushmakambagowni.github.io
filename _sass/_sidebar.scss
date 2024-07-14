@@ -75,8 +75,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 300px; /* Increased width for larger avatar */
-  height: 300px; /* Set height for square avatar */
+  width: 250px; /* Increased width for larger avatar */
+  height: 250px; /* Set height for square avatar */
   overflow: hidden; /* Hide overflow to maintain square shape */
 
   @include breakpoint($large) {
@@ -86,10 +86,12 @@
   }
 
   img {
-    width: 100%; /* Make the image fill the container width */
+    width: auto%; /* Make the image fill the container width */
     height: 100%; /* Make the image fill the container height */
-    object-fit: cover; /* Ensure the image covers the square without distortion */
+    object-fit: contain; /* Ensure the image covers the square without distortion */
     border-radius: 0; /* Remove rounding */
+    display: block;
+    margin: auto;
 
     @include breakpoint($large) {
       padding: 5px;
