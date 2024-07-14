@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<!--{% include base_path %} -->
-<!-- <a href="https://sushmakambagowni.github.io/Sushma Kambagowni_CV.pdf">Please click here for the latest CV</a> -->
 <a href="https://sushmakambagowni.github.io/Sushma%20Kambagowni_CV.pdf" target="_blank">Please click here for the latest CV</a>
