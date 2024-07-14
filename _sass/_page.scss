@@ -414,3 +414,13 @@
     text-align: justify;
   }
 }
+
+.archive-title {
+  margin-left: 20px; /* Align title with content */
+}
+
+@media screen and (min-width: 768px) {
+  .archive-title {
+    margin-left: 50px; /* Align title with content for larger screens */
+  }
+}
