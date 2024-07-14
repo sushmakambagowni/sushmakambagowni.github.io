@@ -4,7 +4,7 @@
 
 .archive {
   margin-bottom: 2em;
-  margin-left: 20px;
+  margin-left: 20px; /* Add left margin to shift content */
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -12,7 +12,8 @@
 
   @include breakpoint($large) {
     @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
+    @include prefix(1 of 12); /* Adjust the value to shift content right */
+    text-align: justify; /* Ensure text justification */
   }
 
   a {
@@ -25,6 +26,14 @@
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
     }
+  }
+}
+
+.archive-title {
+  margin-left: 20px; /* Align title with content */
+
+  @include breakpoint($large) {
+    margin-left: 50px; /* Adjust the value for larger screens */
   }
 }
 
@@ -85,7 +94,6 @@
   }
 }
 
-
 /*
    List view
    ========================================================================== */
@@ -107,7 +115,6 @@
     margin: 0 0 4px;
   }
 }
-
 
 /*
    Grid view
@@ -151,7 +158,6 @@
     }
   }
 }
-
 
 /*
    Features
