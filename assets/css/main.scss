@@ -44,5 +44,5 @@
   border-radius: 0 !important; /* Remove rounding */
   width: 250px !important; /* Set width */
   height: 250px !important; /* Set height to make it square */
-  object-fit: cover !important; /* Ensure the image covers the square without distortion */
+  object-fit: contain !important; /* Ensure the image covers the square without distortion */
 }
