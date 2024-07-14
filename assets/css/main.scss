@@ -42,7 +42,8 @@
 
 .author__avatar img {
   border-radius: 0 !important; /* Remove rounding */
-  width: 250px !important; /* Set width */
-  height: 250px !important; /* Set height to make it square */
-  object-fit: contain !important; /* Ensure the image covers the square without distortion */
+  width: 200px !important; /* Set width */
+  height: 200px !important; /* Set height to make it square */
+  object-fit: cover !important; /* Ensure the image covers the square without distortion */
+  display: block; /* Ensure image is displayed as a block element */
 }
