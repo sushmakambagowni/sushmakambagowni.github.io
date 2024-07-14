@@ -75,21 +75,25 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 250px; /* Increased width for larger avatar */
-  height: 250px; /* Set height for square avatar */
+  width: 250px; /* Set container width */
+  height: 250px; /* Set container height */
   overflow: hidden; /* Hide overflow to maintain square shape */
+  text-align: center; /* Center the image */
+  background-color: #f0f0f0; /* Optional: add background color to visualize the container */
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    width: 250px;
+    height: 250px;
   }
 
   img {
-    width: auto%; /* Make the image fill the container width */
+    width: 100%; /* Make the image fill the container width */
     height: 100%; /* Make the image fill the container height */
-    object-fit: contain; /* Ensure the image covers the square without distortion */
+    object-fit: cover; /* Ensure the image covers the square without distortion */
     border-radius: 0; /* Remove rounding */
+    display: block; /* Ensure image is displayed as a block element */
+    margin: auto; /* Center the image horizontally */
 
     @include breakpoint($large) {
       padding: 5px;
@@ -115,7 +119,7 @@
 
 .author__name {
   margin: 0;
-  font-size: 20px; /* Increased font size for author name */
+  font-size: 24px; /* Increased font size for author name */
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -125,7 +129,7 @@
 
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: 20px; /* Increased font size for author name in sidebar */
+  font-size: 24px; /* Increased font size for author name in sidebar */
 }
 
 .sidebar .author__desktop {
