@@ -41,8 +41,8 @@
 @import "print";
 
 .author__avatar img {
-  border-radius: 0; /* Remove rounding */
-  width: 200px; /* Set width */
-  height: 200px; /* Set height to make it square */
-  object-fit: cover; /* Ensure the image covers the square without distortion */
+  border-radius: 0 !important; /* Remove rounding */
+  width: 200px !important; /* Set width */
+  height: 200px !important; /* Set height to make it square */
+  object-fit: cover !important; /* Ensure the image covers the square without distortion */
 }
