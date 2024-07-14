@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<div class="content-container">
+<div>
   <h2>Job Market Paper</h2>
   Sushma Kambagowni, Vanitha Swaminathan, Mina Ameri and Alok Saboo, "Platforms as Innovation Enablers: How do Platform Support and Innovation Strategy Enhance App Performance?" <br/> 
   <i>- Under Review at Journal of Marketing Research</i> <br/>
