@@ -18,8 +18,8 @@ author_profile: true
   
   <h2>Working Papers/ Works in Progress</h2>
   Sushma Kambagowni and Vanitha Swaminathan, "The Reality Divide: Factors Impacting Advertisement Engagement in Virtual Reality vs. Non-Virtual Reality Games" <br/>
-  <i>- Dissertation Essay 2</i><br/>
   <i>- 2024 AMA Marketing Strategy SIG Doctoral Student Research Award</i>
+  <i>- Dissertation Essay 2</i><br/>
   <br/><br/> <!-- Added extra line space here -->
 
 
