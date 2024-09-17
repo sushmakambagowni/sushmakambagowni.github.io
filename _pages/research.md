@@ -8,7 +8,7 @@ author_profile: true
   <h2>Manuscripts in the Revision Process</h2>
   Sushma Kambagowni, Vanitha Swaminathan, Mina Ameri and Alok Saboo, "Platforms as Innovation Enablers: How do Platform Support and Innovation Strategy Enhance App Performance?" <br/> 
   <i>- Revise and Resubmit at Journal of Marketing Research</i> <br/>
-  <i>- Job Market Paper</i>
+  <i>- Job Market Paper</i><br/>
   <i>- Dissertation Essay 1</i>
   <br/><br/> <!-- Added extra line space here -->
 
@@ -18,8 +18,8 @@ author_profile: true
   
   <h2>Working Papers/ Works in Progress</h2>
   Sushma Kambagowni and Vanitha Swaminathan, "The Reality Divide: Factors Impacting Advertisement Engagement in Virtual Reality vs. Non-Virtual Reality Games" <br/>
-  <i>- 2024 AMA Marketing Strategy SIG Doctoral Student Research Award</i>
-  <i>- Dissertation Essay 2</i><br/>
+  <i>- 2024 AMA Marketing Strategy SIG Doctoral Student Research Award</i><br/>
+  <i>- Dissertation Essay 2</i>
   <br/><br/> <!-- Added extra line space here -->
 
 
