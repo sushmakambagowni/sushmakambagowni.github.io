@@ -8,6 +8,7 @@ author_profile: true
   <h2>Manuscripts in the Revision Process</h2>
   Sushma Kambagowni, Vanitha Swaminathan, Mina Ameri and Alok Saboo, "Platforms as Innovation Enablers: How do Platform Support and Innovation Strategy Enhance App Performance?" <br/> 
   <i>- Revise and Resubmit at Journal of Marketing Research</i> <br/>
+  <i>- Job Market Paper</i>
   <i>- Dissertation Essay 1</i>
   <br/><br/> <!-- Added extra line space here -->
 
