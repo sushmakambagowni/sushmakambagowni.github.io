@@ -14,4 +14,3 @@ As a quantitative marketing strategy researcher, I study the impact of digital t
 
 Before embarking on my doctoral journey, I earned a Bachelor's degree in Computer Science with distinction from Pondicherry University and an MBA from the Indian Institute of Management (IIM), Calcutta. Prior to entering academia, I gained invaluable experience as a Business Strategy Consultant at Accenture Strategy, where I worked for three years.
 
-I am on the 2024-2025 marketing academic job market.
